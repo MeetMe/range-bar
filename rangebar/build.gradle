@@ -6,13 +6,12 @@ version = "1.0.0"
 group = "com.edmodo"
 
 android {
-
-    compileSdkVersion 19
-    buildToolsVersion "19.1"
+    compileSdkVersion 22
+    buildToolsVersion '22.0.1'
 
     defaultConfig {
         minSdkVersion 7
-        targetSdkVersion 19
+        targetSdkVersion 22
     }
 
     sourceSets {
